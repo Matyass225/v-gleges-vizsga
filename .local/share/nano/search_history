@@ -1,0 +1,7 @@
+const INTERVAL = 6000;
+setInterval(fetchData, INTERVAL);
+time.sleep
+const INTERVAL = 30000
+
+
+
